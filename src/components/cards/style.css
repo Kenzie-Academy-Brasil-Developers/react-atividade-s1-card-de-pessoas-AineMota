@@ -1,0 +1,15 @@
+.card {
+  height: 200px;
+  width: 200px;
+  border: solid grey 5px;
+  margin: 50px 20px 0 10px;
+  border-radius: 15px;
+  background-color: rgb(137, 185, 207);
+  color: aliceblue;
+  text-shadow: rgb(146, 142, 142) 3px 3px 3px;
+  box-shadow: rgb(146, 142, 142) 5px 5px 5px;
+}
+
+p {
+  margin-top: 30px;
+}

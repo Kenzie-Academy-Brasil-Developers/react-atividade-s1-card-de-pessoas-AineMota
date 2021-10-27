@@ -1,0 +1,10 @@
+.head {
+  background-color: rgb(137, 185, 207);
+  text-align: center;
+  height: 80px;
+  box-shadow: rgb(146, 142, 142) 7px 7px 7px;
+}
+
+h1 {
+  padding-top: 20px;
+}
